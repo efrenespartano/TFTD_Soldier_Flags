@@ -1,5 +1,5 @@
 #the namelist as the file implies, represents ALL the UK, thus, there are both english,scottish,welsh and northern irish names and surnames mixed together
-country: STR_BRITAIN
+country: STR_EU_SYNDICATE
 region: STR_NORTH_SEA
 lookWeights:
   - 30

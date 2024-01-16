@@ -1,4 +1,4 @@
-country: STR_ATLANTIC_STATES
+country: STR_USA
 region: STR_NORTH_ATLANTIC
 lookWeights:
   - 30

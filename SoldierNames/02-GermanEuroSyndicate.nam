@@ -1,4 +1,4 @@
-country: STR_GERMAN_REICH
+country: STR_EU_SYNDICATE
 region: STR_NORTH_SEA
 lookWeights:
   - 60
